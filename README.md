@@ -2,8 +2,8 @@
 
 test
 
-[Link to another page](./another-page.html).
+[Link to another page](./another-page_1.html).
 
-[Link to another page](./another-page.md).
+[Link to another page](./another-page_1.md).
 
 test
