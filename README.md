@@ -7,7 +7,7 @@ test
 [Link to another page](./another-page_1.md).
 
  <a href="https://www.google.com/?hl=ja" class="btn btn-external">
- button1
+ button2
  </a>
 
 test
