@@ -2,3 +2,8 @@
 ---
 
 @import 'jekyll-theme-cayman';
+
+.button {
+  background-color: #2ecadf; /* 背景色指定 */
+  color: #fff; /* 文字色 */
+}
