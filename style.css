@@ -1,14 +1,4 @@
-.button {
-  transition: .3s; /* 変化時間 0.3秒 */
-  padding: 24px 48px; /* 内側の余白設定 */
-  border-radius: 12px; /* 要素の角を丸くする */
-  background-color: #2ecadf; /* 背景色指定 */
-  text-decoration: none; /* aタグの下線を非表示に */
-  color: #fff; /* 文字色 */
-  font-size: 1.5rem; /* フォントサイズ */
-}
+---
+---
 
-.button:hover { 
-  transition: .3s; /* 変化時間 0.3秒 */
-  background-color: #00a9de; /* 背景色 */
-}
+@import 'jekyll-theme-cayman';
